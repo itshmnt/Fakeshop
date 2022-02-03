@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Hello Redux!
+      <h1>Hello Redux!</h1>
     </div>
   );
 }
